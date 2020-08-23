@@ -1,0 +1,49 @@
+.container1{
+	width: 100%;
+	height: 50px;
+	color: #ffffff;
+	padding: 10px;
+}
+.container1 .navbar button{
+	border-style: solid;
+	border-color: #fff;
+}
+.container1 .topnav a{
+	padding-right: 20px;
+	padding-left: 20px;
+}
+#dollar{
+	color: red;
+	padding-bottom:0.2px;
+}
+.container2{
+	color: #fff;
+	width: 100%;
+	height: 50px;
+	padding: 10px;
+	border-bottom: solid #889;
+}
+.container2 .topnav a{
+	padding-right: 40px;
+	padding-left: 40px;
+}
+h1{
+	padding-top: 100px;
+}
+
+.container{
+	background: purple;
+	text-align: center;
+	color: #fff;
+}
+.container h1{
+	font-weight: 900;
+}
+.btn{
+	background-color: red;
+	color: #fff;
+	border: #000 solid;
+}
+body{
+	background-color: purple;
+}
